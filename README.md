@@ -1,5 +1,3 @@
 # snake-tkinter
 
-A sample of snake game running with TKinter (which has no sense at all)...
-
-Use 4,5,6,8 to move
+A sample of snake game running with tkinter (which has no sense at all)...
