@@ -1,1 +1,3 @@
 # snake-tkinter
+
+A sample of snake game running with TKinter (which has no sense at all)...
